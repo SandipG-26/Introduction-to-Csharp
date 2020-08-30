@@ -1,0 +1,6 @@
+C:\Users\Sandip\source\repos\Introduction to Csharp\Brainworks.Model\bin\Debug\Brainworks.Model.dll
+C:\Users\Sandip\source\repos\Introduction to Csharp\Brainworks.Model\bin\Debug\Brainworks.Model.pdb
+C:\Users\Sandip\source\repos\Introduction to Csharp\Brainworks.Model\obj\Debug\Brainworks.Model.csprojAssemblyReference.cache
+C:\Users\Sandip\source\repos\Introduction to Csharp\Brainworks.Model\obj\Debug\Brainworks.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sandip\source\repos\Introduction to Csharp\Brainworks.Model\obj\Debug\Brainworks.Model.dll
+C:\Users\Sandip\source\repos\Introduction to Csharp\Brainworks.Model\obj\Debug\Brainworks.Model.pdb

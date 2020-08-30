@@ -1,0 +1,13 @@
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\bin\Release\netcoreapp3.1\Introduction to Csharp.exe
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\bin\Release\netcoreapp3.1\Introduction to Csharp.deps.json
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\bin\Release\netcoreapp3.1\Introduction to Csharp.runtimeconfig.json
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\bin\Release\netcoreapp3.1\Introduction to Csharp.runtimeconfig.dev.json
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\bin\Release\netcoreapp3.1\Introduction to Csharp.dll
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\bin\Release\netcoreapp3.1\Introduction to Csharp.pdb
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\obj\Release\netcoreapp3.1\Introduction to Csharp.csprojAssemblyReference.cache
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\obj\Release\netcoreapp3.1\Introduction to Csharp.AssemblyInfoInputs.cache
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\obj\Release\netcoreapp3.1\Introduction to Csharp.AssemblyInfo.cs
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\obj\Release\netcoreapp3.1\Introduction to Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\obj\Release\netcoreapp3.1\Introduction to Csharp.dll
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\obj\Release\netcoreapp3.1\Introduction to Csharp.pdb
+C:\Users\Sandip\source\repos\Introduction to Csharp\Introduction to Csharp\obj\Release\netcoreapp3.1\Introduction to Csharp.genruntimeconfig.cache

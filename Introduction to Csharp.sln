@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introduction to Csharp", "Introduction to Csharp\Introduction to Csharp.csproj", "{81FB55FA-F141-48E4-81DE-C5BCAE0440A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brainworks.Model", "Brainworks.Model\Brainworks.Model.csproj", "{17FA231E-E237-434A-A75E-2840642F806A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81FB55FA-F141-48E4-81DE-C5BCAE0440A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FB55FA-F141-48E4-81DE-C5BCAE0440A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FB55FA-F141-48E4-81DE-C5BCAE0440A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FB55FA-F141-48E4-81DE-C5BCAE0440A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FA231E-E237-434A-A75E-2840642F806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FA231E-E237-434A-A75E-2840642F806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FA231E-E237-434A-A75E-2840642F806A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FA231E-E237-434A-A75E-2840642F806A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E90160C-E0D7-4FBE-822B-CE87BA86E3CB}
+	EndGlobalSection
+EndGlobal

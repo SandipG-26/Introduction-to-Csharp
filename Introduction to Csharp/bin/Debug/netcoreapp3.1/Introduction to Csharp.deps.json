@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Introduction to Csharp/1.0.0": {
+        "dependencies": {
+          "Brainworks.Model": "1.0.0"
+        },
+        "runtime": {
+          "Introduction to Csharp.dll": {}
+        }
+      },
+      "Brainworks.Model/1.0.0": {
+        "runtime": {
+          "Brainworks.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introduction to Csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Brainworks.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

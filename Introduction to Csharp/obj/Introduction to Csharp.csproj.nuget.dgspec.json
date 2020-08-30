@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Introduction to Csharp\\Introduction to Csharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Brainworks.Model\\Brainworks.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Brainworks.Model\\Brainworks.Model.csproj",
+        "projectName": "Brainworks.Model",
+        "projectPath": "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Brainworks.Model\\Brainworks.Model.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Introduction to Csharp\\Introduction to Csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Introduction to Csharp\\Introduction to Csharp.csproj",
+        "projectName": "Introduction to Csharp",
+        "projectPath": "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Introduction to Csharp\\Introduction to Csharp.csproj",
+        "packagesPath": "C:\\Users\\Sandip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Introduction to Csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Brainworks.Model\\Brainworks.Model.csproj": {
+                "projectPath": "C:\\Users\\Sandip\\source\\repos\\Introduction to Csharp\\Brainworks.Model\\Brainworks.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
